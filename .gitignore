@@ -1,0 +1,8 @@
+.vscode
+node_modules
+package-lock.json
+yarn.lock
+.shadow-cljs
+public/cljs-runtime
+public/app.js
+public/manifest.edn
