@@ -2,6 +2,7 @@
 
 This is a shadow-cljs and re-frame absolute minimum hello world sample. Only contains these files:
 
+```
 .
 ├── public
 │   ├── favicon.ico
@@ -13,6 +14,7 @@ This is a shadow-cljs and re-frame absolute minimum hello world sample. Only con
 ├── package.json
 ├── readme.md
 └── shadow-cljs.edn
+```
 
 0. Clone this repo
 1. Install yarn dependencies `yarn install`
